@@ -1,0 +1,46 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family:sans-serif;
+}
+main{
+  background-color: #EEE;
+  
+}
+
+#title{
+  text-align: center;
+  font-size: 3rem;
+  
+}
+#subtitle{
+  text-align: center;
+}
+#img-div{
+  display: block;
+  margin: auto;
+  
+}
+#imagen{
+  background-color: white;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+ 
+}
+#img-caption{
+  text-align:center;
+}
+
+.centrado{
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+   
+}
+
+.centrado1{
+  text-align:center;
+}
+
+
